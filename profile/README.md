@@ -15,13 +15,17 @@
 <a href="https://github.com/HuzaifaIrfan" target="_blank">Home</a>
 </p>
 
-## 📁 This organization hosts all CAD and mechanical design projects, including 3D models, assemblies, and fabrication-ready drawings.
+## 📁 This organization hosts all CAD, Mechanical, and PCB design projects, including 3D models, assemblies, and fabrication-ready drawings.
 
 
-## 🧑‍💻 Softwares and Tools
+## 🧑‍💻 Software and Tools
 
 <table>
 <tr>
+    <td align='center' width="200">
+        <img src="https://easyeda.com/fonts/en-logo-w.svg">
+        EasyEDA
+    </td>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fusion360_Logo.png">
         Autodesk-Fusion360
