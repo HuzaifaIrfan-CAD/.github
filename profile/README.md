@@ -27,6 +27,14 @@
         EasyEDA
     </td>
     <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/FreeCAD-wordmark.svg">
+        Freecad
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg">
+        Blender
+    </td>
+    <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fusion360_Logo.png">
         Autodesk-Fusion360
     </td>
