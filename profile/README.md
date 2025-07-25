@@ -23,6 +23,10 @@
 <table>
 <tr>
     <td align='center' width="200">
+        <img src="https://avatars.githubusercontent.com/u/36305429">
+        CadQuery-Python
+    </td>
+    <td align='center' width="200">
         <img src="https://easyeda.com/fonts/en-logo-w.svg">
         EasyEDA
     </td>
