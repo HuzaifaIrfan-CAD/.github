@@ -1,46 +1,12 @@
-# Hi there, I'm Huzaifa Irfan 👋
+# 🧑‍💻 Huzaifa Irfan 👋
+
+**`📁 This organization hosts all CAD, Mechanical, and PCB design projects, including 3D models, assemblies, and fabrication-ready drawings.`**
 
 <hr />
 
-<p align="center">
-<a href="https://huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/huzaifairfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/HuzaifaIrfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
-<a href="mailto:contact@huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+[![GitHub Home](https://img.shields.io/badge/Home-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
+[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
+
 
 <hr />
-
-<p align="center">
-<a href="https://github.com/HuzaifaIrfan" target="_blank">Home</a>
-</p>
-
-## 📁 This organization hosts all CAD, Mechanical, and PCB design projects, including 3D models, assemblies, and fabrication-ready drawings.
-
-
-## 🧑‍💻 Software and Tools
-
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://avatars.githubusercontent.com/u/36305429">
-        CadQuery-Python
-    </td>
-    <td align='center' width="200">
-        <img src="https://easyeda.com/fonts/en-logo-w.svg">
-        EasyEDA
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/FreeCAD-wordmark.svg">
-        Freecad
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg">
-        Blender
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fusion360_Logo.png">
-        Autodesk-Fusion360
-    </td>
-</tr>
-</table>
